@@ -1,0 +1,4 @@
+API key: HbQCh5unrF4mYm2tgTnqjzQr1
+API key secret: AGIdT7qF9l6ejZ0HUiz9TJQP1PdD6f7nzSu3sggfC4bBcY4f1Y
+
+URL: https://api.twitter.com/1.1/statuses/home_timeline.json
